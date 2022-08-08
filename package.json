@@ -1,0 +1,22 @@
+{
+  "name": "ford---cp02",
+  "version": "1.0.0",
+  "description": "trello 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ford-jones/Ford---CP02.git"
+  },
+  "author": "ford jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ford-jones/Ford---CP02/issues"
+  },
+  "homepage": "https://github.com/ford-jones/Ford---CP02#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
